@@ -1,0 +1,21 @@
+# Build target directory
+target/
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Documentation / Generated files
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
